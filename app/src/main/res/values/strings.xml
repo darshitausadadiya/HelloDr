@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="header">DemoApp</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+
+    <string name="appointment">Appointment</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="doctor">Doctor</string>
+    <string name="patient">Patient</string>
+
+    <string-array name="doctor_specialties">
+        <item>General</item>
+    </string-array>
+
+</resources>
